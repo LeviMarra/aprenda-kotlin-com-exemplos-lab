@@ -1,3 +1,5 @@
+// [Template no Kotlin Playground](https://pl.kotl.in/5LusIkGH-)
+
 enum class Nivel { INICIANTE, INTERMEDIARIO, AVANCADO }
 
 data class Usuario(val nome: String, val sobrenome: String, val idade: Int, val email: String, val matricula: String) {
